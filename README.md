@@ -12,7 +12,7 @@ steve chassé
 This is how the Craig Perko original chunk looks:
 <img src="https://i.ibb.co/dGnGqm3/47k-Tris-And28k-Verts-normal-Chunk.png" alt="47k-Tris-And28k-Verts-normal-Chunk" border="0">
 
-I built my own version of a face reducer without changing the LOD (level of detail). The tris are reduced more than 10 fold and the verts reduced by approx 5 times. It's pretty much dependant on how bumpy the terrain is.
+I built my own version of a face reducer without changing the LOD (level of detail). For this chunk seed, the tris are reduced approx 15 fold and the verts reduced by approx 5 times. It's pretty much dependant on how bumpy the terrain is.
 <img src="https://i.ibb.co/9s2v1qp/3k-Tris-And6k-Verts-Reduced-Faces-Chunk.png" alt="3k-Tris-And6k-Verts-Reduced-Faces-Chunk" border="0">
 
 
