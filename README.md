@@ -1,5 +1,6 @@
 # Voxel-Triangle-Reducer-script
-NO LOD - My implementation of a triangle reducer for voxel based minecraft chunks. 
+
+it's not really a LOD (level of detail) solution - It's a vertex and triangle reducer for voxel based minecraft chunks.
 
 Using unity 2017.4.26f1 - my script is making faces of minecraft chunks faces merge together as rectangles or cubic faces to cover larger areas and bring the number of vertices and triangles displayed on the screen to a lower amount.
 
