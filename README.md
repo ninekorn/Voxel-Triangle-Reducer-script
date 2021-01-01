@@ -1,4 +1,4 @@
-# Voxel-Triangle-Reducer-script
+# Voxel-Triangle-Reducer-script script created in 2018. Because it worked, i shelved it.
 
 it's not really a LOD (level of detail) solution - It's a vertex and triangle reducer for voxel based minecraft chunks.
 
