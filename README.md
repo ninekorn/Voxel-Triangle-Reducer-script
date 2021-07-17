@@ -1,4 +1,4 @@
-# Voxel-Triangle-Reducer-script 
+# Voxel-Triangle-n-Vertices-Reducer-script 
 
 I created this script in 2018.
 
