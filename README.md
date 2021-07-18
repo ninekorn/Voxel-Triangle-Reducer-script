@@ -1,5 +1,7 @@
 # Voxel-Triangle-n-Vertices-Reducer-script 
 
+developped by steve chassé
+
 I created this script in 2018.
 
 it's not really a LOD (level of detail) solution - It's a vertex and triangle reducer for voxel based minecraft chunks.
